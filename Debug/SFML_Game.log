@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(85,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(88,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(88,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(92,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(92,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(62,51): warning C4390: ';': empty controlled statement found; is this the intent?
+  SFML_Game.vcxproj -> C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\Debug\SFML_Game.exe
